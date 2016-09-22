@@ -13,7 +13,7 @@
 		"title" : "Following",
 		"year_of_release" : "1998",
 		"movie_number" : "2",
-		"starring_actors" : "Jeremy Theobald, Alex Haw, Lucy Russell, John Nolan",
+		"starring_actors" : ["Jeremy Theobald", "Alex Haw", "Lucy Russell", "John Nolan"],
 		"description" : "Following is a 1998 British neo-noir crime drama film written and directed by Christopher Nolan. It tells the story of a young man who follows strangers around the streets of London and is drawn into a criminal underworld when he fails to keep his distance.
 
 		As Christopher Nolan's debut feature, it was designed to be as inexpensive as possible to make. Scenes were heavily rehearsed so that just one or two takes were needed to economise on 16 mm film stock, the production's greatest expense; and for which Nolan was paying from his salary. Unable to afford expensive professional lighting equipment, Nolan mostly used available light. Along with writing, directing, and photographing the film, Nolan also helped in editing and production.",
@@ -25,7 +25,7 @@
 		"title" : "Momento",
 		"year_of_release" : "2000",
 		"movie_number" : "3",
-		"starring_actors" : "Guy Pierce, Carrie-Ann Moss, Joe Pantoliano",
+		"starring_actors" : ["Guy Pierce", "Carrie-Ann Moss", "Joe Pantoliano"],
 		"description" : "Memento is a 2000 American neo-noir psychological thriller film directed and written by Christopher Nolan, and produced by Suzanne and Jennifer Todd. The film's script was based on a pitch by Jonathan Nolan, who later wrote the story 'Memento Mori' from the concept. It stars Guy Pearce, Carrie-Anne Moss, and Joe Pantoliano.
 
 		Pierce stars as a man who suffers from anterograde amnesia (the inability to form new memories) and is searching for the persons who attacked him and killed his wife. Memento is presented as two different sequences of scenes interspersed during the film: a series in black-and-white that is shown chronologically, and a series of color sequences shown in reverse order (simulating in the audience the mental state of the protagonist who can remember only about five to seven minutes before amnesia sets in). The two sequences 'meet' at the end of the film, producing one complete and cohesive narrative.[4]",
@@ -37,7 +37,7 @@
 		"title" : "Insomnia",
 		"year_of_release" : "2002",
 		"movie_number" : "4",
-		"starring_actors" : "Al Pacino, Robin Williams, Hilary Swank",
+		"starring_actors" : ["Al Pacino", "Robin Williams", "Hilary Swank"],
 		"description" : "Insomnia is a 2002 American psychological thriller film directed by Christopher Nolan, and starring Al Pacino, Robin Williams and Hilary Swank. It tells the story of two Los Angeles homicide detectives investigating a murder in an Alaskan town. A remake of the 1997 Norwegian film of the same name, Insomnia was released on May 24, 2002, to critical acclaim and commercial success, grossing $113 million worldwide. To date, this is the only film that Nolan has directed without receiving at least a share of one of the writing credits, even though he wrote the final draft of the script.",
 		"poster" : "",
 		"hero_image" : ""
@@ -47,7 +47,7 @@
 		"title" : "Batman begins",
 		"year_of_release" : "2005",
 		"movie_number" : "5",
-		"starring_actors" : "Christian Bale, Michael Caine, Katie Holmes, Gary Oldman",
+		"starring_actors" : ["Christian Bale", "Michael Caine", "Katie Holmes", "Gary Oldman"],
 		"description" : "Batman Begins is a American epic superhero film based on the fictional DC Comics character Batman, co-written and directed by Christopher Nolan and starring Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe, and Morgan Freeman. The film reboots the Batman film series, telling the origin story of the title character (Bale), from his alter ego Bruce Wayne's initial fear of bats, the death of his parents, his journey to become Batman, and his fight to stop Ra's al Ghul (Neeson) and the Scarecrow (Murphy) from plunging Gotham City into chaos. It draws inspiration from classic comic book storylines such as The Man Who Falls, Batman: Year One, and Batman: The Long Halloween.",
 		"poster" : "",
 		"hero_image" : ""
@@ -57,7 +57,7 @@
 		"title" : "The Prestige",
 		"year_of_release" : "2006",
 		"movie_number" : "6",
-		"starring_actors" : "Christian Bale, Hugh Jackman, David Bowie",
+		"starring_actors" : ["Christian Bale", "Hugh Jackman", "David Bowie"],
 		"description" : "The Prestige is a 2006 mystery thriller drama film directed by Christopher Nolan, from a screenplay adapted by Nolan and his brother Jonathan from Christopher Priest's 1995 World Fantasy Award-winning novel of the same name. The story follows Robert Angier and Alfred Borden, rival stage magicians in London at the end of the 19th century. Obsessed with creating the best stage illusion, they engage in competitive one-upmanship with tragic results.",
 		"poster" : "",
 		"hero_image" : ""
@@ -77,7 +77,7 @@
 		"title" : "The Dark Knight",
 		"year_of_release" : "2008",
 		"movie_number" : "8",
-		"starring_actors" : "Heath Ledger, Christian Bale, Michael Caine, Gary Oldman",
+		"starring_actors" : ["Heath Ledger", "Christian Bale", "Michael Caine", "Gary Oldman"],
 		"description" : "",
 		"poster" : "",
 		"hero_image" : ""
@@ -87,7 +87,7 @@
 		"title" : "Inception",
 		"year_of_release" : "2010",
 		"movie_number" : "9",
-		"starring_actors" : "Leonardo DiCaprio, Tom Hardy, Joseph Cordon-Levitt, Ellen Page",
+		"starring_actors" : ["Leonardo DiCaprio", "Tom Hardy", "Joseph Gordon-Levitt", "Ellen Page"],
 		"description" : "Inception is a 2010 science fiction heist thriller film written, co-produced, and directed by Christopher Nolan, and co-produced by Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious, and is offered a chance to have his criminal history erased as payment for a task seemingly-impossible: 'inception', the implantation of another person's idea into a target's subconscious.[4] The ensemble cast additionally includes Ellen Page, Joseph Gordon-Levitt, Marion Cotillard, Ken Watanabe, Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, and Michael Caine.
 
 			After the 2002 completion of Insomnia, Nolan presented to Warner Bros. a written 80-page treatment about a horror film envisioning 'dream stealers' based on lucid dreaming.[5] Emphasizing on professional-scale experience, Nolan retired the project and instead worked on 2005's Batman Begins, 2006's The Prestige, and The Dark Knight in 2008.[6] The treatment was revised over 6 months and was purchased by Warner in February 2009.[7] Inception was filmed in six countries, beginning in Tokyo in June 19 and ending in Canada in November 22.[8] Its official budget was US$160 million, split between Warner Bros and Legendary.[9] Nolan's reputation and success with The Dark Knight helped secure the film's $100 million in advertising expenditure.",
@@ -99,7 +99,7 @@
 		"title" : "The Dark Knight Rises",
 		"year_of_release" : "2012",
 		"movie_number" : "10",
-		"starring_actors" : "Christian Bale, Tom Hardy, Anne Hathaway, Joseph Gordon-levitt",
+		"starring_actors" : ["Christian Bale", "Tom Hardy", "Anne Hathaway", "Joseph Gordon-levitt"],
 		"description" : "The Dark Knight Rises is a 2012 British-American superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, and the story with David S. Goyer. Featuring the DC Comics character Batman, the film is the final installment in Nolan's Batman film trilogy, and the sequel to Batman Begins (2005) and The Dark Knight (2008). Christian Bale reprises the lead role of Bruce Wayne/Batman, with a returning cast of allies: Michael Caine as Alfred Pennyworth, Gary Oldman as James Gordon, and Morgan Freeman as Lucius Fox. The film introduces Selina Kyle (Anne Hathaway), and Bane (Tom Hardy). Eight years after the events of The Dark Knight, merciless revolutionary Bane forces an older Bruce Wayne to resume his role as Batman and save Gotham City from nuclear destruction.",
 		"poster" : "",
 		"hero_image" : ""
@@ -109,7 +109,7 @@
 		"title" : "Man of Steel",
 		"year_of_release" : "2013",
 		"movie_number" : "11",
-		"starring_actors" : "Henry Cavill, Amy Adams, Michael Shannon",
+		"starring_actors" : ["Henry Cavill", "Amy Adams", "Michael Shannon"],
 		"description" : "Man of Steel is a 2013 superhero film featuring the DC Comics character Superman. It is a British-American venture[2] produced by Legendary Pictures, DC Entertainment and Syncopy Inc., distributed by Warner Bros. Pictures, and is the first installment in the DC Extended Universe.[4] Directed by Zack Snyder and written by David S. Goyer, the film stars Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Laurence Fishburne, Antje Traue, Ayelet Zurer, Christopher Meloni, and Russell Crowe. Man of Steel is a reboot of the Superman film series that retells the character's origin story. In the film, Clark Kent learns that he is a superpowered alien from the planet Krypton and assumes the role of mankind's protector as Superman, but finds himself having to prevent General Zod from destroying humanity.",
 		"poster" : "",
 		"hero_image" : ""
@@ -119,7 +119,7 @@
 		"title" : "Interstellar",
 		"year_of_release" : "2014",
 		"movie_number" : "12",
-		"starring_actors" : "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Matt Damon",
+		"starring_actors" : ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Matt Damon"],
 		"description" : "nterstellar is a 2014 British-American epic science fiction film directed by Christopher Nolan. The film stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Matt Damon, and Michael Caine. In the film, a crew of astronauts travel through a wormhole in search of a new home for humanity. Brothers Christopher and Jonathan Nolan wrote the screenplay, which has its origins in a script Jonathan developed in 2007. Christopher Nolan produced the film with his wife Emma Thomas through their production company Syncopy and with Lynda Obst through Lynda Obst Productions. Caltech theoretical physicist Kip Thorne, whose work inspired the film, was an executive producer and acted as scientific consultant. Warner Bros., Paramount Pictures, and Legendary Pictures co-financed the film.",
 		"poster" : "",
 		"hero_image" : ""
@@ -129,7 +129,7 @@
 		"title" : "Quay",
 		"year_of_release" : "2015",
 		"movie_number" : "13",
-		"starring_actors" : "Stephen Quay, Timothy Quay",
+		"starring_actors" : ["Stephen Quay", "Timothy Quay"],
 		"description" : "Quay is a 2015 British short documentary film composed, shot, edited, produced, and directed by Christopher Nolan about animators Stephen and Timothy Quay. The film premiered at the Film Forum theater in New York City on 19 August 2015.",
 		"poster" : "",
 		"hero_image" : ""
@@ -139,7 +139,7 @@
 		"title" : "Dunkirk",
 		"year_of_release" : "2017",
 		"movie_number" : "14",
-		"starring_actors" : "Tom Hardy, Harry Styles, Mark Rylance",
+		"starring_actors" : ["Tom Hardy", "Harry Styles", "Mark Rylance"],
 		"description" : "Dunkirk is a British epic action-thriller film written, co-produced and directed by Christopher Nolan. The story is set in World War II and centres around the Dunkirk evacuation.",
 		"poster" : "",
 		"hero_image" : ""
