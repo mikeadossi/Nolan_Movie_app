@@ -11,7 +11,8 @@ expressApp.set('view engine', 'ejs'); //The 1st step in using ejs templating goo
 // Home
 expressApp.get('/', function(req, res){ // If the user makes a browser request for the '/' (index) page the server responds with the following:
 	res.render('home', {
-		title : "Nolan Movies"
+		title : "Nolan Movies",
+		movies: ["The First Movie", "The second movie", "The third movie"]
 	});
 });
 

@@ -1,3 +1,12 @@
+<!-- To get color codification I needed to download the 'EJS' sublime package using my sublime package control manager -->
+
 <h1>This is the template for the home page</h1>
 
-<p><%= title %></p>
+<p><%= title %></p> <!-- we output to the screen -->
+
+<ul>
+	<!-- Below we run a for loop that delivers to the screen every item in our movie list -->
+	<% for (var i = 0; i < movies.length; i++) { %>
+	<li><%= movies[i] %></li>
+	<% } %>
+</ul>
