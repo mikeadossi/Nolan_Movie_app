@@ -13,7 +13,6 @@ body {
 }
 
 
-
 /* --------------------------
 Hero Image / Title Styles 
 ----------------------------- */
@@ -114,7 +113,7 @@ Home Page Posters Styles
 }
 .poster {
 	width: 30%;
-	margin-right: 4%;
+	margin-right: 2.9%;
 	display: inline-block;
 	position: relative;
 }
