@@ -6,6 +6,11 @@ expressApp.set('view engine', 'ejs'); //The 1st step in using ejs templating goo
 
 var routes = require('./routes');
 
+var path = require('path');
+expressApp.use(express.static(path.join(__dirname, 'public'))); // the path automatically looks in the public directories for all static assets.
+
+
+
 // Routes 
 
 // home
