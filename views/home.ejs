@@ -1,12 +1,21 @@
 <!-- To get color codification I needed to download the 'EJS' sublime package using my sublime package control manager -->
 
-<h1>This is the template for the home page</h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<p><%= title %></p> <!-- we output to the screen -->
+    <title>Bootstrap 101 Template</title>
 
-<ul>
-	<!-- Below we run a for loop that delivers to the screen every item in our movie list -->
-	<% for (var i = 0; i < movies.length; i++) { %>
-	<li><%= movies[i] %></li>
-	<% } %>
-</ul>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </body>
+</html>
