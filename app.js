@@ -15,6 +15,11 @@ expressApp.get('/nolan_movie/:movie_number?', function(req, res){
 	res.send("This is the page for nolan movie " + movie_number);
 });
 
+// Below we create a not found page. We only plan on including 14 Nolan movies, so if our variable movie_number would have to return a 404 page if any number over 14 were entered into the url bar.
+expressApp.get('*', function(req, res){
+	res.send("This is not the page you are looking for")
+})
+
 expressApp.listen(3000, function(){
 	console.log("The application is running on localhost3000");
 });
