@@ -9,6 +9,10 @@ expressApp.get('/', function(req, res){ // If the user makes a browser request f
 	res.send("This is a server response on the home page");
 });
 
+expressApp.get('/darkKnight', function(req, res){
+	res.send("This is a server response on the DK page");
+})
+
 expressApp.listen(3000, function(){
 	console.log("The application is running on localhost3000");
 })
