@@ -2,7 +2,7 @@ var moviesJSON = require('../movies.json');
 
 // Home
 exports.home = function(req, res){ // If the user makes a browser request for the '/' (index) page the server responds with the following:
-	
+
 	var moviesJ = moviesJSON.movies;
 
 	res.render('home', {
