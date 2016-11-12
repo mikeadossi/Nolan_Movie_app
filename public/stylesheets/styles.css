@@ -112,7 +112,7 @@ Home Page Posters Styles
 	padding-top: 75px;
 }
 .poster {
-	width: 250px;
+	width: 30%;
 	margin-right: 2.9%;
 	display: inline-block;
 	position: relative;
@@ -128,7 +128,6 @@ Home Page Posters Styles
 	opacity: 0;
 	transition: 0.5s ease-in-out;
 	padding: 30px 15px;
-	width:243.6px;
 }
 .poster-info-overlay h3 {
 	text-transform: uppercase;
