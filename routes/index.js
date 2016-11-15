@@ -13,8 +13,11 @@ exports.home = function(req, res){ // If the user makes a browser request for th
 
 // movie_single
 exports.movie_single = function(req, res){
-	var movie_number = req.params.movie_number;
-	res.send("This is the page for nolan movie " + movie_number);
+	var episode_number = req.params.episode_number;
+	var movie_number = moviesJSON.movies;
+	res.render("movie_single", {
+		movies : movies
+	});
 };
 
 // not_found
