@@ -14,8 +14,8 @@ exports.home = function(req, res){ // If the user makes a browser request for th
 // movie_single
 exports.movie_single = function(req, res){
 	var episode_number = req.params.episode_number;
-	var movie_number = moviesJSON.movies;
-	res.render("movie_single", {
+	var movies = moviesJSON.movies;
+	res.render('movie_single', {
 		movies : movies
 	});
 };

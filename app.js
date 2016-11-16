@@ -2,7 +2,7 @@ var express = require('express');
 
 var expressApp = express(); //-> 'app' is the typically what's used here
 
-expressApp.set('view engine', 'ejs'); //The 1st step in using ejs templating goodness we specify it as our expressApps view engine 
+expressApp.set('view engine', 'ejs'); //The 1st step in using ejs templating goodness we specify it as our expressApps view engine
 
 var routes = require('./routes');
 
@@ -11,13 +11,13 @@ expressApp.use(express.static(path.join(__dirname, 'public'))); // the path auto
 
 
 
-// Routes 
+// Routes
 
 // home
 expressApp.get('/', routes.home);
 
 // movie_single
-expressApp.get('/nolan_movies/:movie_number?', routes.movie_single);
+expressApp.get('/nolan_movies/:movie_number?', routes.movie_single); // we link up our template file here
 
 // notFound
 expressApp.get('*', routes.not_found);
