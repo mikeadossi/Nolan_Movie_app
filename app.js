@@ -17,7 +17,7 @@ expressApp.use(express.static(path.join(__dirname, 'public'))); // the path auto
 expressApp.get('/', routes.home);
 
 // movie_single
-expressApp.get('/nolan_movies/:movie_number?', routes.movie_single); // we link up our template file here
+expressApp.get('/nolan_movies/:movie_number?', routes.movie_single); // we link up our template file here, also see our route index.js file
 
 // notFound
 expressApp.get('*', routes.not_found);
