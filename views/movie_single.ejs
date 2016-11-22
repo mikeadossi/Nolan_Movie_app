@@ -13,6 +13,11 @@
       <div class="poster-wrapper">
         <img src="/images/<%= movie.poster %>" class="img-responsive"></img>
       </div>
+
+      <div class="description-wrapper">
+        <div class="movie-header">Description</div>
+        <p><%= movie.description %></p>
+      </div>
     </div>
 
     <% include partials/scripts.ejs %>
