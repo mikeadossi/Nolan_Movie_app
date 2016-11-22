@@ -43,5 +43,9 @@ exports.home = function(req, res){ // If the user makes a browser request for th
 
 // not_found
 exports.not_found =  function(req, res){
-	res.send("This is not the page you are looking for")
+	var movies = moviesJSON.movies;
+	res.render('notFound', {
+		movies : movies,
+		title : "Oops, this page doesn't exist"
+	});
 }
