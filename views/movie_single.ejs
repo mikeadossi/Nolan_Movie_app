@@ -11,14 +11,26 @@
 
     <div class="content-padding clearfix">
       <div class="poster-wrapper">
-        <img src="/images/<%= movie.poster %>" class="img-responsive"></img>
-      </div>
+      <img src="/images/<%= movie.poster %>" class="img-responsive"></img>
+    </div>
 
-      <div class="description-wrapper">
-        <div class="movie-header">Description</div>
+    <div class="description-wrapper">
+      <div class="description">
+        <h2 class="movie-header">Description</h2>
         <p><%= movie.description %></p>
       </div>
+
+      <div class="starring-actors">
+        <h2 class="movie-header">Starring Actors</h2>
+        <ul>
+          <% for (var i = 0; i < starring_actors.length; i++) { %>
+            <li><%= starring_actors[i] %></li>
+          <% } %>
+        </ul>
+      </div>
+
     </div>
+  </div>
 
     <% include partials/scripts.ejs %>
   </body>

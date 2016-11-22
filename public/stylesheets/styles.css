@@ -302,7 +302,7 @@ Movie-Single Poster and Description Styles
 	margin-bottom: 25px;
 }
 
-.main-characters ul li {
+.starring-actors ul li {
 	display: inline-block;
 	list-style: none;
 	margin-right: 40px;
@@ -311,7 +311,7 @@ Movie-Single Poster and Description Styles
 	font-size: 13px;
 }
 
-.main-characters ul {
+.starring-actors ul {
 	padding-left: 0px;
 }
 
