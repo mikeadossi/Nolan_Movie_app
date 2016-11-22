@@ -21,6 +21,7 @@ exports.home = function(req, res){ // If the user makes a browser request for th
 		var title = movie.title;
 		var starring_actors = movie.starring_actors;
 		var year_of_release = movie.year_of_release;
+		var hero_image = movie.hero_image;
 
 		res.render('movie_single', {
 			movie : movie,
@@ -28,7 +29,8 @@ exports.home = function(req, res){ // If the user makes a browser request for th
 			movies: movies,
 			movie_number : movie_number,
 			year_of_release : year_of_release,
-			starring_actors : starring_actors
+			starring_actors : starring_actors,
+			hero_image : hero_image
 		});
 	} else {
 			res.render('notFound', {
