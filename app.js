@@ -22,6 +22,4 @@ expressApp.get('/nolan_movies/:movie_number?', routes.movie_single); // we link 
 // notFound
 expressApp.get('*', routes.not_found);
 
-expressApp.listen(3000, function(){
-	console.log('The application is running on localhost3000');
-});
+expressApp.listen(process.env.PORT || 3000);
